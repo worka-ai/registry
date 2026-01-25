@@ -1,0 +1,6 @@
+tenant: worka
+name: messaging
+display_name: Messaging
+description: Messaging abstraction pack for SMS/WhatsApp/email.
+publisher: worka
+repository: https://github.com/worka-ai/worka

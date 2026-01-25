@@ -1,0 +1,9 @@
+category: property-management
+packs:
+  - worka/hmo
+  - worka/contacts
+  - worka/media
+  - worka/messaging
+  - worka/notifications
+  - worka/places
+  - worka/twilio

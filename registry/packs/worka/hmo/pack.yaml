@@ -1,0 +1,6 @@
+tenant: worka
+name: hmo
+display_name: HMO
+description: HMO orchestration pack for incident workflows.
+publisher: worka
+repository: https://github.com/worka-ai/worka

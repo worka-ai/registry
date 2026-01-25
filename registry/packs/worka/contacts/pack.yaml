@@ -1,0 +1,6 @@
+tenant: worka
+name: contacts
+display_name: Contacts
+description: System contacts pack providing shared identity records.
+publisher: worka
+repository: https://github.com/worka-ai/worka

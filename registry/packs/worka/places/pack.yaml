@@ -1,0 +1,6 @@
+tenant: worka
+name: places
+display_name: Places
+description: Places lookup pack.
+publisher: worka
+repository: https://github.com/worka-ai/worka

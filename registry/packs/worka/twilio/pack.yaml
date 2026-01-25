@@ -1,0 +1,6 @@
+tenant: worka
+name: twilio
+display_name: Twilio Provider
+description: Provider pack for SMS/WhatsApp delivery via Worka Cloud API.
+publisher: worka
+repository: https://github.com/worka-ai/worka

@@ -1,0 +1,6 @@
+tenant: worka
+name: media
+display_name: Media
+description: Media storage and retrieval pack.
+publisher: worka
+repository: https://github.com/worka-ai/worka

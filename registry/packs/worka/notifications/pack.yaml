@@ -1,0 +1,6 @@
+tenant: worka
+name: notifications
+display_name: Notifications
+description: Notification routing pack.
+publisher: worka
+repository: https://github.com/worka-ai/worka
