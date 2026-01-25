@@ -1,5 +1,5 @@
 version: "0.1.0"
 artifact_url: "https://packs.worka.ai/worka/twilio/0.1.0/main.wasm"
-artifact_sha256: "09ec9bfae7362f62b359012b205655c71eccbd58a42942d87ae2dc53f678a934"
-manifest_sha256: "bd23a0b3ef5986b30979925d64b3fa408ca836ac1223d65f57b9bd491ce23b46"
-published_at: "2026-01-25T07:02:56Z"
+artifact_sha256: "10c977838f4a1f9669e7d85606edbcf4a779a44c304a1b8af9d5f72edc10a29b"
+manifest_sha256: "4a0bba57e304c0bd4abe686f81bf09028247128f53d1b57b1441207f0d1ba5f9"
+published_at: "2026-01-25T18:54:14Z"

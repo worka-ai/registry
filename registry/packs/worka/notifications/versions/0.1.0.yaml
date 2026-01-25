@@ -1,5 +1,5 @@
 version: "0.1.0"
 artifact_url: "https://packs.worka.ai/worka/notifications/0.1.0/main.wasm"
-artifact_sha256: "3443ec0e22cc145bd8ad9c5ac03167254727529de0b8686182aabb900f1c1b4a"
-manifest_sha256: "beb65bca712d7a1a9a34a662d524b6090bf11775ba40ffc03eceaee29730104d"
-published_at: "2026-01-25T07:02:54Z"
+artifact_sha256: "6e35d66ee2961c081677c478814ff753fa0f633c31b412aa0ff909948eced831"
+manifest_sha256: "fd853eaf3712399a29ede54dba1d55f08440e0c21267a99e1fd63a390c03d754"
+published_at: "2026-01-25T18:53:42Z"

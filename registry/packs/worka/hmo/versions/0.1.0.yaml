@@ -1,5 +1,5 @@
 version: "0.1.0"
 artifact_url: "https://packs.worka.ai/worka/hmo/0.1.0/main.wasm"
-artifact_sha256: "55bcae287ecc6ce597dc4c07419f3753e8f878843d6a5ed81749435e1ed8e56d"
-manifest_sha256: "4e62696e2e704256170be5d7486b629622b6ae39911f37361a04b413e8e05e1b"
-published_at: "2026-01-25T07:02:50Z"
+artifact_sha256: "afb0f9b95afcee62f5e71fe21fce4c9b26a46b374c9181bc02573434bc1f3db0"
+manifest_sha256: "4c1f00bdb163dfb91a6ca232d6f0fdab6e5f49068ff3ba9bfd0afa02fa51b832"
+published_at: "2026-01-25T18:52:53Z"
