@@ -1,5 +1,5 @@
 version: "0.1.0"
 artifact_url: "https://github.com/worka-ai/registry/releases/download/pack-worka-messaging-v0.1.0/main.wasm"
 artifact_sha256: "ec54233ea1021209125ad2c16e620c99459771d19f868837178588710780bf4a"
-manifest_sha256: "582f956026989f53b3bf4df461ca23afa851a633cf87d68d5ccc89005eac9ad2"
-published_at: "2026-02-02T11:53:20Z"
+manifest_sha256: "8002c5b11b5f54b5a0a728ffe1ecd191dcdfe051d29d24b3bbbdc366c4fe955d"
+published_at: "2026-02-02T12:14:32Z"

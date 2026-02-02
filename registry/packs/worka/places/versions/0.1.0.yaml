@@ -1,5 +1,5 @@
 version: "0.1.0"
 artifact_url: "https://github.com/worka-ai/registry/releases/download/pack-worka-places-v0.1.0/main.wasm"
 artifact_sha256: "2b49aacca54969d4847440430841929ed6676eaf475ad4ccd500e7b79fdf7e48"
-manifest_sha256: "cc61675270f718642e886687245e4822218fa4591c6a50acb64c132079838df0"
-published_at: "2026-02-02T11:53:28Z"
+manifest_sha256: "5130a7606a5677b3480e8fb8074be71be821e0ea685881df0c3cd3e8eaa8748e"
+published_at: "2026-02-02T12:14:40Z"
