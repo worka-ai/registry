@@ -1,5 +1,5 @@
 version: "0.1.0"
-artifact_url: "https://api.worka.ai/worka/contacts/0.1.0/main.wasm"
+artifact_url: "https://github.com/worka-ai/registry/releases/download/pack-worka-contacts-v0.1.0/main.wasm"
 artifact_sha256: "2b4799bfa3ad3e9abb483f4036ab90fa5676487c763897ad6e0bd0291f0e86d1"
 manifest_sha256: "7ad4d67ceef38d69a0c66dd67735d332c6c8b5d8d6a3cb018f013e2123c4277b"
 published_at: "2026-02-02T09:46:32Z"

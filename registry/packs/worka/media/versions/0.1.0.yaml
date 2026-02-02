@@ -1,5 +1,5 @@
 version: "0.1.0"
-artifact_url: "https://api.worka.ai/worka/media/0.1.0/main.wasm"
+artifact_url: "https://github.com/worka-ai/registry/releases/download/pack-worka-media-v0.1.0/main.wasm"
 artifact_sha256: "85bc3b7978632fba4a636280f0d014bd8819e9bc8e7665060b847e9686a8752f"
 manifest_sha256: "1a087c5c2344ddb16a9cc2a62f4d30b8799824982314c844acaf68dfa94938ea"
 published_at: "2026-02-02T09:46:42Z"
