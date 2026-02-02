@@ -1,5 +1,5 @@
 version: "0.1.0"
-artifact_url: "https://github.com/worka-ai/registry/releases/download/pack-worka-notifications-v0.1.0/main.wasm"
+artifact_url: "https://packs.worka.ai/worka/notifications/0.1.0/main.wasm"
 artifact_sha256: "48dc86219f2a3f9b678d15baeda2f0aff0629299ac8ac3144db877c9ec71ea1d"
 manifest_sha256: "fd853eaf3712399a29ede54dba1d55f08440e0c21267a99e1fd63a390c03d754"
-published_at: "2026-01-29T20:30:16Z"
+published_at: "2026-02-02T09:46:51Z"
